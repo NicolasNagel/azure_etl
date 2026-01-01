@@ -1,0 +1,14 @@
+annotated-types==0.7.0
+azure-core==1.36.0
+azure-identity==1.25.1
+azure-keyvault==4.2.0
+azure-keyvault-certificates==4.10.0
+azure-keyvault-keys==4.11.0
+azure-keyvault-secrets==4.10.0
+azure-storage-blob==12.27.1
+pandas==2.3.3
+pandera==0.27.0
+psycopg2-binary==2.9.11
+pyarrow==22.0.0
+python-dotenv==1.2.1
+SQLAlchemy==2.0.44
